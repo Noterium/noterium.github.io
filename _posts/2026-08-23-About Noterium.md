@@ -1,5 +1,5 @@
 ---
-title: Amout Noterium
+title: About Noterium
 date: 2026-08-23 13:09:00 +0700
 categories: [Offical, FAQ]
 tags: offical
