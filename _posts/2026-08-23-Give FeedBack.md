@@ -7,4 +7,4 @@ description: Give sesion feedback
 pin: true
 author: notal
 ---
-<meta http-equiv="refresh" content="0; url=https://notal78.github.io/feedback" />
+<meta http-equiv="refresh" content="0; url=https://noterium.github.io/feedback" />
