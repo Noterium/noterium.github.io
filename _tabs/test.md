@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-solid fa-code
-order: 4
+icon: fa-solid fa-list-check
+order: 5
 ---
 
 # Test page
