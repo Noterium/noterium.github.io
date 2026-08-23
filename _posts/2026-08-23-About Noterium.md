@@ -5,5 +5,6 @@ categories: [Offical, FAQ]
 tags: offical
 description: What is Noterium
 pin: true
+author: noterium
 ---
 <meta http-equiv="refresh" content="0; url=https://noterium.github.io/about" />
