@@ -7,4 +7,4 @@ description: when is our next sesion
 pin: true
 author: notal
 ---
-# Sunday 7-9-2026
+# Sunday 6-9-2026
